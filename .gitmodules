@@ -1,0 +1,3 @@
+[submodule "deps/spec_monad_code"]
+	path = deps/spec_monad_code
+	url = git@github.com:danmatichuk/spec_monad_code.git
